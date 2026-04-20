@@ -4,8 +4,7 @@ Explores which companies, countries, and sectors were hit hardest — and when. 
 dataset with 2,000+ records spanning 2020–2026, featuring dynamic slicers, KPI cards, geo maps,
 and trend analysis to uncover the human story behind the numbers.*
 
-| Detail | Info |
-|--------|------||
+**| Detail | Info |**
 | 📅 Date | 2020-2026 |
 | 🏷️ Category | HR Analytics · Labor Market |
 | 🛠️ Tools | Power BI · DAX · Power Query |
