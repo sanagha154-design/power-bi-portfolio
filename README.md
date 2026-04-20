@@ -63,10 +63,6 @@ power-bi-portfolio/
 - [x] Write advanced DAX measures and calculated columns
 - [x] Apply data modeling best practices (star schema)
 - [x] Design executive-level reports for business stakeholders
-- [ ] Implement Row-Level Security (RLS)
-- [ ] Publish to Power BI Service & schedule refresh
-- [ ] Embed reports in web apps via Power BI Embedded
-- [ ] Build paginated reports for operational reporting
 
 ---
 
