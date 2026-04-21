@@ -30,7 +30,7 @@ This repository documents my hands-on journey learning **Microsoft Power BI** as
 
 ## 🗂️ Projects
 
-### 01 · Layoff Dashboard
+### 01 · Tech Workforce Reduction Dashboard
 > *Analyzing global tech layoff trends using real-world data*
 
 ---
@@ -40,8 +40,8 @@ This repository documents my hands-on journey learning **Microsoft Power BI** as
 ```
 power-bi-portfolio/
 │
-├── layoff-dashboard/
-│   ├── LayoffDashboard.pbix
+├── Tech Workforce Reduction Dashboard/
+│   ├── Tech Workforce Reduction Dashboard.pbix
 │   ├── README.md
 │   ├── data/
 │   │   └── layoffs_data.csv

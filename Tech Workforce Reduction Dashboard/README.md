@@ -1,4 +1,4 @@
-### Layoff Dashboard
+### Tech Workforce Reduction Dashboard
 > *An interactive Power BI dashboard analyzing global layoff trends across tech and non-tech industries.
 Explores which companies, countries, and sectors were hit hardest — and when. Built using a real-world
 dataset with 2,000+ records spanning 2020–2026, featuring dynamic slicers, KPI cards, geo maps,
